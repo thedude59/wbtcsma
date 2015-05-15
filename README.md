@@ -32,3 +32,28 @@ Linked Data:
 
 Linked Data is the connection of raw data to make sense out of it. Raw Data for example is a birth date, a name or eye color.
 Linked Data "connects" that data to make a context, so I can create a somewhat profile from that raw Data given in the beginning.
+
+
+Task2 
+ 
+ 
+List of my accounts on the web
+ 
+My YouTube account 
+My Facebook account
+ 
+List of my siblings
+ 
+My brothers Martin and Daniel (both older than me) and my sister Evelyne
+ 
+My interests
+I love playing video games, and my favourites are:
+•         Dota2
+•         Battlefield4
+•         Counter-Strike 1.6
+ 
+ 
+And I worked for two big companies so far
+ 
+•         Bison IT-Services AG
+•         Batt Bau AG
