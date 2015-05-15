@@ -13,11 +13,13 @@ http://adrianschmocker.ch/mylife
 
 
 My hobbies
+
 http://adrianschmocker.ch/hobbies#gaming
 http://adrianschmocker.ch/hobbies#sports
 http://adrianschmocker.ch/hobbies#friends
 
 My Career
+
 http://adrianschmocker.ch/career#apprenticeship
 http://adrianschmocker.ch/career#smalljobs
 http://adrianschmocker.ch/career#mainjobs	
