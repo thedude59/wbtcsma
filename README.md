@@ -7,23 +7,23 @@ Create IRI’s (fake ones to show how it would be done)
 
 General about me
 
-http://adrianschmocker.ch/aboutmme
-http://adrianschmocker.ch/home
+http://adrianschmocker.ch/aboutmme </br>
+http://adrianschmocker.ch/home </br>
 http://adrianschmocker.ch/mylife
 
 
 My hobbies
 
-http://adrianschmocker.ch/hobbies#gaming
-http://adrianschmocker.ch/hobbies#sports
-http://adrianschmocker.ch/hobbies#friends
+http://adrianschmocker.ch/hobbies#gaming </br>
+http://adrianschmocker.ch/hobbies#sports </br>
+http://adrianschmocker.ch/hobbies#friends </br>
 
 My Career
 
-http://adrianschmocker.ch/career#apprenticeship
-http://adrianschmocker.ch/career#smalljobs
-http://adrianschmocker.ch/career#mainjobs	
-http://adrianschmocker.ch/career#studies
+http://adrianschmocker.ch/career#apprenticeship </br>
+http://adrianschmocker.ch/career#smalljobs </br>
+http://adrianschmocker.ch/career#mainjobs	</br>
+http://adrianschmocker.ch/career#studies </br>
 
 
 These IRI’s will most likely also work in the future. Til now they worked well and I don’t see any reason why they should change the syntax. And even if they chance something, I can just adjust my code (which of course will take some time)
