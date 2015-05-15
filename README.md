@@ -7,7 +7,7 @@ Create IRI’s (fake ones to show how it would be done)
 
 General about me
 
-http://adrianschmocker.ch/aboutmme </br>
+http://adrianschmocker.ch/aboutme </br>
 http://adrianschmocker.ch/home </br>
 http://adrianschmocker.ch/mylife
 
