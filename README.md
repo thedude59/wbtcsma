@@ -56,9 +56,8 @@ Task2
 
 <p class=MsoNormal><span lang=EN-GB> </span></p>
 
-<p class=MsoNormal><span lang=EN-GB>My YouTube account </span></p>
-
-<p class=MsoNormal><span lang=EN-GB>My Facebook account</span></p>
+<p class=MsoNormal><span lang=EN-GB>My <a
+href="http://www.youtube.com/thetute59">YouTube</a> account </span></p>
 
 <p class=MsoNormal><span lang=EN-GB> </span></p>
 
@@ -66,10 +65,12 @@ Task2
 
 <p class=MsoNormal><span lang=EN-GB> </span></p>
 
-<p class=MsoNormal><span lang=EN-GB>My brothers Martin and Daniel (both older
-than me) and my sister Evelyne</span></p>
+<p class=MsoNormal><span lang=EN-GB>My brothers <a
+href="http://www.adrianschmocker.ch/siblings/martin">Martin</a> and <a
+href="http://www.adrianschmocker.ch/siblings/daniel">Daniel</a> (both older
+than me) and my sister <a href="http://www.adrianschmocker.ch/siblings/evelyne">Evelyne</a></span></p>
 
-<p class=MsoNormal><span lang=EN-GB> </span></p>
+<p class=MsoNormal><span lang=EN-GB>&nbsp;</span></p>
 
 <p class=MsoNormal><span lang=EN-GB>My interests</span></p>
 
@@ -98,8 +99,17 @@ IT-Services AG</a></p>
 
 <p class=MsoNormal>•         <a href="http://www.battbau.ch/home/">Batt Bau AG</a></p>
 
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&lt;!-- /*</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>{page:WordSection1;} --&gt;</p>
+
 </div>
 
 </body>
 
 </html>
+
