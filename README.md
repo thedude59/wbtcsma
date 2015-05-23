@@ -43,32 +43,7 @@ Task2
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 12 (filtered)">
 <style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0cm;
-	margin-bottom:.0001pt;
-	font-size:11.0pt;
-	font-family:"Calibri","sans-serif";}
-a:link, span.MsoHyperlink
-	{color:blue;
-	text-decoration:underline;}
-a:visited, span.MsoHyperlinkFollowed
-	{color:purple;
-	text-decoration:underline;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
-div.WordSection1
-	{page:WordSection1;}
--->
+
 </style>
 
 </head>
@@ -107,7 +82,8 @@ href="http://de.dota2.com/?l=german">Dota2</a></span></p>
 <p class=MsoNormal><span lang=EN-GB>•         <a
 href="http://www.battlefield.com/battlefield-4">Battlefield4</a></span></p>
 
-<p class=MsoNormal><span lang=EN-GB>•         Counter-Strike 1.6</span></p>
+<p class=MsoNormal><span lang=EN-GB>•         <a
+href="http://www.counter-strike.de/">Counter-Strike 1.6</a></span></p>
 
 <p class=MsoNormal><span lang=EN-GB> </span></p>
 
@@ -117,9 +93,10 @@ href="http://www.battlefield.com/battlefield-4">Battlefield4</a></span></p>
 
 <p class=MsoNormal><span lang=EN-GB> </span></p>
 
-<p class=MsoNormal>•         Bison IT-Services AG</p>
+<p class=MsoNormal>•         <a href="http://www.bison-its.ch/">Bison
+IT-Services AG</a></p>
 
-<p class=MsoNormal>•         Batt Bau AG</p>
+<p class=MsoNormal>•         <a href="http://www.battbau.ch/home/">Batt Bau AG</a></p>
 
 </div>
 
